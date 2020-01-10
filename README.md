@@ -1,6 +1,6 @@
-# drd
-Code accompanying the paper "Deep Recurrent Deterministic Policy Gradient for Physical Control"
-##Dependencies
+# DRD
+Code accompanying the paper "Deep Recurrent Deterministic Policy Gradient for Physical Control"  
+## Dependencies
 Python 3.6.8  
 Pytorch 1.1.0 
 Numpy 1.16.4 
